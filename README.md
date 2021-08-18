@@ -1,2 +1,3 @@
-  #!/bin/bash
-alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory \n
+#!/bin/bash
+this is my README.md file for the alx-system_engineering-decops which is my directory
+
