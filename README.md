@@ -1,3 +1,4 @@
 #!/bin/bash
-in side alx-system_engineering-devops repository there will be 
-alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+repsitory alx-system_engineering-devops repository with file README.md
+directory 0x00-shell_basics with file 0-current_working_directory
+0-current_working_directory file inside description of the path
