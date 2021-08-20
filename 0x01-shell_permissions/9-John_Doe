@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo=(rwxr(x(wr))) hello
+chmod 743 hello
