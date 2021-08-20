@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir my_dir, chmod u=rwx,g-w,o+x my_dir/  
+mkdir my_dir, chmod -R a+rX,g+rx my_dir/  
+ 
