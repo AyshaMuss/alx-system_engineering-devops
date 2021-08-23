@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0. Hello World
 Writting a script that prints “Hello, World”, followed by a new line to the standard output
 Repo:
@@ -150,3 +151,7 @@ Repo:
 •	File: 22-users_and_homes
 
 
+=======
+ #!/bin/bash
+/* this is script file for the alx-system_engineering-decops which is my directory */
+>>>>>>> c06c6c70903fc99747cdaaf2d58cc148406b29e5
